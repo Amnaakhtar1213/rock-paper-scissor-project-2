@@ -1,0 +1,28 @@
+# ROCK-PAPER-SCISSOR GAME
+
+
+It is the one step updated version of game that i post here before.I add **HTML**, **CSS**, and **JavaScript**.I add javascript in this for some interaction and logic.It has a result button that show the winner,lose and tie, and it also has a new game button that play the game from start.
+
+---
+
+# --Features
+
+- 3 pic btns
+- large resylt and resrt btn
+
+---
+
+## -Technologies used
+
+- **HTML**           ->  for Structure
+- **CSS**            -> for styling
+- **JavaScript**     -> for logic and interaction
+
+---
+
+# How to Run
+
+Clone this reposotory:
+```Bash
+
+git Clone https://github.com/Amnaakhtar1213/rock-paper-scissor-project-2.git
